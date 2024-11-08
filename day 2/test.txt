@@ -1,0 +1,7 @@
+Vấn đề này đã được Uber hỏi.
+
+Cho một mảng số nguyên, trả về một mảng mới sao cho mỗi phần tử ở chỉ mục i của mảng mới là tích của tất cả các số trong mảng ban đầu ngoại trừ phần tử ở i .
+
+Ví dụ: nếu đầu vào của chúng tôi là [1, 2, 3, 4, 5] thì đầu ra dự kiến ​​sẽ là [120, 60, 40, 30, 24] . Nếu đầu vào của chúng tôi là [3, 2, 1] thì đầu ra dự kiến ​​sẽ là [2, 3, 6] .
+
+Theo dõi: nếu bạn không thể sử dụng phép chia thì sao?
