@@ -5,6 +5,11 @@
 
     Tim mau so chung lon nhat.
 */
+
+/*
+    gcd(a,b) = gcd(a+kb, b)
+    
+*/
 #include <iostream>
 
 // Hàm tính ước chung lớn nhất của hai số
@@ -17,7 +22,7 @@ int gcd(int a, int b) {
     return a;
 }
 
-int main() {
+int main() {S
     int numbers[] = {42, 56, 14};
     int n = sizeof(numbers) / sizeof(numbers[0]);
 
